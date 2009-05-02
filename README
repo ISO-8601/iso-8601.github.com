@@ -1,4 +1,4 @@
-TODO Setup a permalink referencing databank
+* TODO Setup a permalink referencing databank
 
 data.iso-8106.info
 
@@ -8,7 +8,7 @@ Provides a data-store to add metadata to any URL
 
 Stores metadata from files as XML 
 
-TODO Setup URL combination engine
+* TODO Setup URL combination engine
 
 Provides methods of referencing data (partial file) within the file referenced by a
 URL
@@ -16,4 +16,5 @@ URL
 
 
 
-TODO Setup GitHub
+* DONE Setup GitHub
+  CLOSED: [2009-05-02 Sat 11:29]
